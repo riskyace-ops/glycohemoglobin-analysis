@@ -1,0 +1,98 @@
+1. HbA1c
+SEQN = Participant ID
+LBXGH = Glycohemoglobin (HbA1c %)
+WTPH2YR = Main 2-year weight
+WTSAF2YR = Fasting subsample weight
+
+2. Insulin
+LBXIN = Insulin (µU/mL)
+'LBDINSI' = Insulin standardized
+'LBDINLC' = Insulin comment code
+
+3. HDL
+LBDHDD = HDL cholesterol (mg/dL)
+LBDHDDSI = HDL standardized
+
+4. Total Cholesterol
+LBXTC = Total cholesterol (mg/dL)
+LBDTCSI = Total cholesterol standardized
+
+5. Blood Pressure
+BPAOARM = Arm side used for BP measurement
+BPAOCSZ = Cuff size used for BP
+BPXOSY1 = Systolic BP reading 1
+BPXODI1 = Diastolic BP reading 1
+BPXOSY2 = Systolic BP reading 2
+BPXODI2 = Diastolic BP reading 2
+BPXOSY3 = Systolic BP reading 3
+BPXODI3 = Diastolic BP reading 3
+BPXOPLS1 = Pulse rate reading 1
+BPXOPLS2 = Pulse rate reading 2
+BPXOPLS3 = Pulse rate reading 3
+BMDSTATS = Bone density exam status
+
+6. BMI / Body Measures
+BMXWT = Weight (kg)
+BMIWT = Weight comment flag
+BMXRECUM = Recumbent length (cm)
+BMIRECUM = Length comment flag
+BMXHEAD = Head circumference (cm)
+BMIHEAD = Head comment flag
+BMXHT = Standing height (cm)
+BMIHT = Height comment flag
+BMXBMI = Body mass index (kg/m²)
+BMDBMIC = BMI comment flag
+BMXLEG = Upper leg length (cm)
+BMILEG = Leg length comment flag
+BMXARML = Upper arm length (cm)
+BMIARML = Arm length comment flag
+BMXARMC = Arm circumference (cm)
+BMIARMC = Arm circumference comment flag
+BMXWAIST = Waist circumference (cm)
+BMIWAIST = Waist comment flag
+BMXHIP = Hip circumference (cm)
+BMIHIP = Hip comment flag
+
+7. Alcohol Use
+ALQ111 = Ever had alcohol
+ALQ121 = Drank alcohol past 12 months
+ALQ130 = Frequency of alcohol use
+ALQ142 = Average drinks per day
+ALQ270 = Ever binge drank ≥5 drinks/day
+ALQ280 = Frequency of binge drinking
+ALQ151 = Age first drank alcohol
+ALQ170 = Drank alcohol in past year
+
+8. Smoking
+SMQ681 = Age first smoked
+SMQ690A = Smoked at least 100 cigarettes
+SMQ710 = Currently smoke
+SMQ720 = Smoke daily or occasionally
+SMQ725 = Smoked last 30 days
+SMQ690B = Ever smoked cigars
+SMQ740 = Current cigar use
+SMQ690C = Ever used smokeless tobacco
+SMQ770 = Current smokeless use
+SMQ690G = Ever used pipe tobacco
+SMQ845 = Age started regular smoking
+SMQ846 = Age quit smoking
+SMQ849 = Cigarettes per day (current)
+SMQ851 = Years smoked
+SMQ690D = Ever used e-cigarettes
+SMQ690E = Ever exposed to secondhand smoke
+SMQ690K = Ever used hookah
+SMQ863 = Current e-cigarette use
+SMQ690F = Ever used nicotine patches/gum
+SMDANY = Any smoking history
+
+9. Depression
+DPQ010 = Little interest/pleasure (PHQ-9)
+DPQ020 = Feeling down/depressed (PHQ-9)
+DPQ030 = Sleep issues (PHQ-9)
+DPQ040 = Fatigue/low energy (PHQ-9)
+DPQ050 = Appetite changes (PHQ-9)
+DPQ060 = Feeling bad/failure (PHQ-9)
+DPQ070 = Concentration trouble (PHQ-9)
+DPQ080 = Psychomotor issues (PHQ-9)
+DPQ090 = Suicidal thoughts (PHQ-9)
+DPQ100 = Depression severity impact
