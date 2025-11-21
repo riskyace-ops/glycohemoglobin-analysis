@@ -1,10 +1,8 @@
 INTRODUCTION
 
-As a type one diabetic of fifteen years I've taken a great interest in exploring my disease to the fullest extent I possible can.
-I've taken it upon myself to collect as much data as I possibly can that'd gear me towards polishing my understanding further - more specifically an understanding
-of glycohemoglobin levels(HbA1c) and its respective connection with several physiological & behavioral variables: Systolic/Diastolic BP, BPM, HDL Cholesterol, Total Cholesterol, Weight, Height, Depression Screening, Smoking Habits, 
-Alcohol Consumption Habits. This exploratory analysis project collects its 10,000+ lines of indivisual data from the NHANES organization. However, in my discovery when merging the several data tables together in union with
-each participant's unique ID, I've identified only ~1,000+ viable participants. This will indefinitely impact the strength of the findings of this project but nonetheless
+As a type one diabetic of fifteen years I've taken a great interest in exploring my disease to the fullest extent.
+I've taken it upon myself to collect as much relevant data I possibly can that'd gear me towards polishing my understanding further - more specifically an understanding
+of glycohemoglobin levels(HbA1c) and its respective connection with several physiological & behavioral variables: Systolic/Diastolic BP, BPM, HDL Cholesterol, Total Cholesterol, Weight, Height, Depression Screening, Smoking Habits, and Alcohol Consumption Habits. This exploratory analysis project collects its 10,000+ lines of indivisual data from the NHANES organization. However, in my discovery when merging the several data tables together in union with each participant's unique ID, I've identified only ~1,000+ viable participants. This will indefinitely impact the strength of the findings of this project but nonetheless
 still provide some level of insight into the connection between HbA1c & the aforementioned variables.
 
 ==================================================================================================================================================
@@ -146,13 +144,13 @@ SECTION (#6)
 Conclusion
 
 In the bivariate analysis section, I've identified a common theme between all continious variables. Blood pressure, BPM, height, weight, and cholesterol value measures 
-indicate a consistently weak yet positive correlation with HbA1c. There is no statistical signifance observed in the connection between the physiological variables & HbA1c.
+indicate a consistently weak yet positive correlation with HbA1c - with an exception to total cholestrol which demonstrates a negative correlation contrary to what I expected. This is due to the sample size and presence of unaccountted confounding variables. There is no statistical signifance observed in the connection between the physiological variables & HbA1c.
 
 Categorical variable connections, similar to continious, also reflect a consistent lack of statistical signifance w/ correlations in HbA1c & smoking & depression groups.
 It is noted however though that HbA1c levels in participants who consume alcohol exhibit a higher HbA1c reading compared to those participants who did not consume alcohol. 
 
-Given the modest sample size (~1000), and the presence of several confounding variables that impede findings; medications, dietery lifestyle, and genetic predispositions, 
-it's difficult for me to report any conclusive findings. A more comprehensive collection of data geared specifically towards HbA1c research is needed in order to better understand
+Given the modest sample size (~1000), and the presence of several confounding variables that inarguably impedes accuracy of findings; medications, dietery lifestyle, and genetic predispositions, 
+it's difficult for me to report any conclusive results. A more comprehensive collection of data geared specifically towards HbA1c research is needed in order to better understand
 the determinants of HbA1c in more larger and diverse populations. 
 
 Thank you to whomever took the time out of their day to read through my project!
